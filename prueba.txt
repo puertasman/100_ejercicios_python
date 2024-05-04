@@ -1,2 +1,5 @@
 soy un fichero
 para hacer pruebas
+a veces funciona
+a veces no
+soy así y a paser a quien no le guste
