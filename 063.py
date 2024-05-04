@@ -2,7 +2,7 @@ def eliminarCaracter(rutaFichero, caracter):
     with open(rutaFichero, 'r', encoding='utf-8') as f:
         texto = f.read()
         texto = texto.replace(caracter, "")
-        return(texto)
+    
     with open("100 ejercicios python/100_ejercicios_python/prueba_modificado.txt", "w+", encoding = 'utf-8') as f:
         f.write(texto)
     
