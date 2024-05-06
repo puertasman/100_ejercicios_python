@@ -7,4 +7,4 @@ def secuenciaFibonacci(N):
         
 print(secuenciaFibonacci(25))
 
-print(secuenciaFibonacci(45))
+print(secuenciaFibonacci(35))
